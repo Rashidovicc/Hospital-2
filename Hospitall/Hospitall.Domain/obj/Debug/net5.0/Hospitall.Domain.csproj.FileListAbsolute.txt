@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\bin\Debug\net5.0\Hospitall.Domain.deps.json
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\bin\Debug\net5.0\Hospitall.Domain.dll
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\bin\Debug\net5.0\Hospitall.Domain.pdb
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\Hospitall.Domain.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\Hospitall.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\Hospitall.Domain.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\Hospitall.Domain.AssemblyInfo.cs
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\Hospitall.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\Hospitall.Domain.dll
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\refint\Hospitall.Domain.dll
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\Hospitall.Domain.pdb
+C:\Users\muham\source\repos\Hospitall\Hospitall.Domain\obj\Debug\net5.0\ref\Hospitall.Domain.dll

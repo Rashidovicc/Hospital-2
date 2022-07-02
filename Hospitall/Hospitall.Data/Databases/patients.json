@@ -1,0 +1,24 @@
+[
+  {
+    "FullName": "Botirali",
+    "IllnessTypes": 7,
+    "Description": "Boshim o'g'riyapti",
+    "Address": "Kish",
+    "Phone": "+998901313126",
+    "Email": "muhammmadibnabdurashid@gmailcom",
+    "Id": 1,
+    "CreatedAt": "2022-06-18T23:04:10.9462895+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "FullName": "Botirali",
+    "IllnessTypes": 7,
+    "Description": "Boshim o'g'riyapti",
+    "Address": "Kish",
+    "Phone": "+998901313126",
+    "Email": "muhammmadibnabdurashid@gmailcom",
+    "Id": 2,
+    "CreatedAt": "2022-06-18T23:04:50.2971876+03:00",
+    "UpdatedAt": null
+  }
+]

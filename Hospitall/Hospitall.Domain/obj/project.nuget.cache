@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRzuRUmKTsL6YJ4t1Tc2tTrlGMWbdXqnvG0tyD/wt5aOpPMHa/5mdAG7hQfoLODWAXBrV1bwfNyyWEj2SoVAaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muham\\source\\repos\\Hospitall\\Hospitall.Domain\\Hospitall.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\sharprompt\\2.4.1\\sharprompt.2.4.1.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

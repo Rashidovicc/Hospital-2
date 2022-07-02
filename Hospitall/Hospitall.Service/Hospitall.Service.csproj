@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hospitall.Data\Hospitall.Data.csproj" />
+    <ProjectReference Include="..\Hospitall.Domain\Hospitall.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sharprompt" Version="2.4.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,65 @@
+[
+  {
+    "FullName": "Botirali",
+    "doctorsTypes": 2,
+    "Experiance": 5,
+    "Salary": 0.0,
+    "Id": 1,
+    "CreatedAt": "2022-06-18T19:05:19.3842707+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "FullName": "Botirali",
+    "doctorsTypes": 2,
+    "Experiance": 5,
+    "Salary": 0.0,
+    "Id": 2,
+    "CreatedAt": "2022-06-18T19:06:07.9223475+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "FullName": "Botirali",
+    "doctorsTypes": 2,
+    "Experiance": 5,
+    "Salary": 0.0,
+    "Id": 3,
+    "CreatedAt": "2022-06-18T19:07:51.3473371+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "FullName": "Botirali",
+    "doctorsTypes": 2,
+    "Experiance": 5,
+    "Salary": 2575.0,
+    "Id": 4,
+    "CreatedAt": "2022-06-18T19:11:14.52929+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "FullName": "Botirali",
+    "doctorsTypes": 2,
+    "Experiance": 5,
+    "Salary": 3590.0,
+    "Id": 5,
+    "CreatedAt": "2022-06-18T20:33:01.4039109+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "FullName": "Botirali",
+    "doctorsTypes": 2,
+    "Experiance": 5,
+    "Salary": 3669.0,
+    "Id": 6,
+    "CreatedAt": "2022-06-18T23:04:10.8140275+03:00",
+    "UpdatedAt": null
+  },
+  {
+    "FullName": "Botirali",
+    "doctorsTypes": 2,
+    "Experiance": 5,
+    "Salary": 4431.0,
+    "Id": 7,
+    "CreatedAt": "2022-06-18T23:04:50.1238089+03:00",
+    "UpdatedAt": null
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hospitall.Domain": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\muham\\source\\repos\\Hospitall\\Hospitall.Console"
+    }
+  }
+}
