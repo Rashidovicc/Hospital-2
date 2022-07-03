@@ -2,13 +2,15 @@
 using Hospitall.Data.IRepositories;
 using Hospitall.Domain.Entities;
 using System.IO;
-
+//doctor repository
 namespace Hospitall.Data.Repositories
 {
     public class DoctorRepository : GenericRepository<Doctor>, IDoctorRepository
     {
+    
         public sealed override string Path { get; set; }
         public sealed override long LastId { get; set; }
+        
 
         public DoctorRepository()
         {
