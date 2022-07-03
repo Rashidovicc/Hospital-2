@@ -27,7 +27,7 @@ namespace Hospitall.Data.Repositories
             return source;
         }
 
-        public bool Delete(decimal id)
+        public bool Delete(long id)
         {
             if (Get(p => p.Id == id) is null)
                 return false;
